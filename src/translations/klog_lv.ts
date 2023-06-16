@@ -26,14 +26,12 @@
     <message>
         <location filename="../aboutdialog.cpp" line="29"/>
         <source>Since 0.6.2, KLog has been fully rewritten to provide a cross-platform application that runs on all major operating systems (Linux, macOS and Windows) and to support new functionality.</source>
-        <translation>
-Kopš 0.6.2 KLog ir pilnībā pārrakstīts, lai nodrošinātu starpplatformu lietojumprogrammu, kas darbojas visās lielākajās operētājsistēmās (Linux, macOS un Windows), un atbalstītu jaunas funkcionalitātes.</translation>
+        <translation>Kopš 0.6.2 KLog ir pilnībā pārrakstīts, lai nodrošinātu starpplatformu lietojumprogrammu, kas darbojas visās lielākajās operētājsistēmās (Linux, macOS un Windows), un atbalstītu jaunas funkcionalitātes.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="31"/>
         <source>Please provide your review in KLog&apos;s eHam review page:</source>
-        <translation>
-Lūdzu, sniedziet savu atsauksmi KLog eHam pārskata lapā:</translation>
+        <translation>Lūdzu, sniedziet savu atsauksmi KLog eHam pārskata lapā:</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="34"/>
@@ -85,7 +83,7 @@ Lūdzu, sniedziet savu atsauksmi KLog eHam pārskata lapā:</translation>
     <message>
         <location filename="../aboutdialog.cpp" line="79"/>
         <source>If KLog is still not in your language and you want to help us, you are welcome to contact us through the &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;KLog development mailing list&lt;/a&gt;!</source>
-        <translation type="unfinished">Ja KLog joprojām nav jūsu valodā un vēlaties mums palīdzēt, varat sazināties ar mums, izmantojot &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;KLog izstrādes vēstuli. saraksts&lt;/a&gt;!</translation>
+        <translation>Ja KLog joprojām nav jūsu valodā un vēlaties mums palīdzēt, varat sazināties ar mums, izmantojot &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;KLog izstrādes vēstuli. saraksts&lt;/a&gt;!</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="80"/>
@@ -144,8 +142,7 @@ Lūdzu, sniedziet savu atsauksmi KLog eHam pārskata lapā:</translation>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="32"/>
         <source>Select the Station Callsign that you want to use to upload the log.</source>
-        <translation>
-Atlasiet stacijas izsaukuma signālu, kuru vēlaties izmantot žurnāla augšupielādei.</translation>
+        <translation>Atlasiet stacijas izsaukuma signālu, kuru vēlaties izmantot žurnāla augšupielādei.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="35"/>
@@ -155,8 +152,7 @@ Atlasiet stacijas izsaukuma signālu, kuru vēlaties izmantot žurnāla augšupi
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="40"/>
         <source>Select the end date to export the QSOs. The default date is the date of the last QSO with this station callsign.</source>
-        <translation>
-Atlasiet beigu datumu, lai eksportētu QSO. Noklusējuma datums ir pēdējā QSO datums ar šo stacijas izsaukuma signālu.</translation>
+        <translation>Atlasiet beigu datumu, lai eksportētu QSO. Noklusējuma datums ir pēdējā QSO datums ar šo stacijas izsaukuma signālu.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="44"/>
@@ -181,14 +177,12 @@ Atlasiet beigu datumu, lai eksportētu QSO. Noklusējuma datums ir pēdējā QSO
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="53"/>
         <source>Cancel</source>
-        <translation>
-Atcelt</translation>
+        <translation>Atcelt</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
         <source>DX</source>
-        <translation>
-DX</translation>
+        <translation>DX</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
@@ -218,7 +212,7 @@ DX</translation>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="200"/>
         <source>QSOs: </source>
-        <translation>QSO:</translation>
+        <translation>QSO: </translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="324"/>
@@ -463,7 +457,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="441"/>
         <source>Pref: </source>
-        <translation>Priekšroka:</translation>
+        <translation>Prefiks: </translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="442"/>
@@ -478,7 +472,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="445"/>
         <source>Beam: </source>
-        <translation>Sija:</translation>
+        <translation>Sija: </translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="452"/>
@@ -505,7 +499,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
         <location filename="../dxcluster.cpp" line="600"/>
         <location filename="../dxcluster.cpp" line="605"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Dzēst</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="156"/>
@@ -640,7 +634,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
         <location filename="../dataproxy_sqlite.cpp" line="4434"/>
         <source>Back scatter</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4438"/>
@@ -7638,18 +7632,18 @@ The log will not be opened.</source>
         <location filename="../elogclublog.cpp" line="76"/>
         <location filename="../elogclublog.cpp" line="162"/>
         <source>Timeout error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Taimauta kļūda!</translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="107"/>
         <source>QSO dupe or not existing (#%1)... </source>
-        <translation type="unfinished"></translation>
+        <translation>QSO ir dublikāts vai nepastāv (#% 1)... </translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="108"/>
         <location filename="../elogclublog.cpp" line="117"/>
         <source>KLog - ClubLog</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - ClubLog</translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="109"/>
@@ -7705,12 +7699,12 @@ The log will not be opened.</source>
     <message>
         <location filename="../elogclublog.cpp" line="585"/>
         <source>Updated QSO</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjaunināts QSO</translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="589"/>
         <source>Invalid ADIF record</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederīgs ADIF ieraksts</translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="593"/>
@@ -7799,7 +7793,7 @@ The log will not be opened.</source>
     <message>
         <location filename="../elogqrzlog.cpp" line="56"/>
         <source>Host not found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Domēna nav</translation>
     </message>
     <message>
         <location filename="../elogqrzlog.cpp" line="59"/>
@@ -7842,7 +7836,7 @@ Lai izmantotu šo funkciju, jums ir nepieciešams QRZ.com abonements.</translati
     <message>
         <location filename="../elogqrzlog.cpp" line="591"/>
         <source>Please enter your QRZ.com password: </source>
-        <translation>Lūdzu, ievadiet savu QRZ.com paroli:</translation>
+        <translation>Lūdzu, ievadiet savu QRZ.com paroli: </translation>
     </message>
     <message>
         <location filename="../elogqrzlog.cpp" line="660"/>
@@ -7868,7 +7862,7 @@ Lai izmantotu šo funkciju, jums ir nepieciešams QRZ.com abonements.</translati
     <message>
         <location filename="../eqslutilities.cpp" line="85"/>
         <source>Host not found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Neeksistē šis  domēns!</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="91"/>
@@ -7878,7 +7872,7 @@ Lai izmantotu šo funkciju, jums ir nepieciešams QRZ.com abonements.</translati
     <message>
         <location filename="../eqslutilities.cpp" line="97"/>
         <source>Undefined error number (#%1)... </source>
-        <translation>Nedefinēts kļūdas numurs (#%1)...</translation>
+        <translation>Nedefinēts kļūdas numurs (#%1)... </translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="99"/>
@@ -7913,8 +7907,7 @@ Lai izmantotu šo funkciju, jums ir nepieciešams QRZ.com abonements.</translati
     <message>
         <location filename="../eqslutilities.cpp" line="221"/>
         <source>Please enter your eQSL.cc password: </source>
-        <translation>
-Lūdzu, ievadiet savu eQSL.cc paroli:</translation>
+        <translation>Lūdzu, ievadiet savu eQSL.cc paroli: </translation>
     </message>
 </context>
 </TS>
