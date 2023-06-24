@@ -966,7 +966,8 @@ Vai vēlaties mēģināt vēlreiz?</translation>
         <location filename="../filemanager.cpp" line="696"/>
         <source>Writing ADIF file...
  QSO: </source>
-        <translation type="unfinished"></translation>
+        <translation>Notiek ADIF faila rakstīšana...
+ QSO: </translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="786"/>
@@ -1689,7 +1690,7 @@ Error returned: %2</source>
     <message>
         <location filename="../logmodel.cpp" line="108"/>
         <source>Call</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Izsaukuma signāls</translation>
     </message>
     <message>
         <location filename="../logmodel.cpp" line="111"/>
