@@ -995,18 +995,18 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../filemanager.cpp" line="823"/>
         <source>Abort processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārtraukt apstrādi</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="827"/>
         <source>LoTW reading</source>
-        <translation type="unfinished"></translation>
+        <translation>LoTW lasīšana</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="871"/>
         <location filename="../filemanager.cpp" line="1771"/>
         <source>KLog - Add new QSOs?</source>
-        <translation type="unfinished"></translation>
+        <translation>Klog — pievienot jaunus QSO?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="872"/>
@@ -1032,7 +1032,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../filemanager.cpp" line="1044"/>
         <source>Reading LoTW file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Notiek LoTW faila lasīšana...</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1044"/>
@@ -4918,7 +4918,7 @@ Please add and select the kind of log you want to use.</source>
     <message>
         <location filename="../setuppages/setuppagebandmode.cpp" line="16"/>
         <source>Bands</source>
-        <translation>Diepazons</translation>
+        <translation type="unfinished">Diapazons</translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagebandmode.cpp" line="20"/>
@@ -7562,7 +7562,7 @@ The log will not be opened.</source>
     <message>
         <location filename="../updatesatsdata.cpp" line="233"/>
         <source>Sat Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Satelitu Dati</translation>
     </message>
 </context>
 <context>
