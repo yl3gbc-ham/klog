@@ -485,7 +485,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../dxcluster.cpp" line="74"/>
         <source>Click on Connect to connect to the DX-Cluster server</source>
-        <translation>Noklikšķiniet uz Savienot, lai izveidotu savienojumu ar DX-Cluster serveri</translation>
+        <translation>Noklikšķiniet uz Savienot lai izveidotu savienojumu ar DX-Cluster serveri</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="78"/>
@@ -521,7 +521,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../dxcluster.cpp" line="229"/>
         <source>The host was not found. Please check:</source>
-        <translation type="unfinished"></translation>
+        <translation>Saimnieks netika atrasts. Lūdzu pārbaudi:</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="230"/>
@@ -881,7 +881,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../filemanager.cpp" line="171"/>
         <source>KLog - Error</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — kļūda</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="193"/>
@@ -1049,7 +1049,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
         <location filename="../filemanager.cpp" line="1448"/>
         <location filename="../filemanager.cpp" line="1851"/>
         <source> QSO: </source>
-        <translation type="unfinished"></translation>
+        <translation> QSO: </translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1467"/>
@@ -1562,7 +1562,7 @@ Error returned: %2</source>
         <location filename="../lotwutilities.cpp" line="390"/>
         <location filename="../lotwutilities.cpp" line="652"/>
         <source>KLog - LoTW download</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — LoTW lejupielāde</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="295"/>
@@ -1612,7 +1612,7 @@ Error returned: %2</source>
     <message>
         <location filename="../lotwutilities.cpp" line="562"/>
         <source>KLog - LoTW File not found</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — LoTW fails nav atrasts</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="563"/>
@@ -6882,58 +6882,58 @@ The log will not be opened.</source>
     <message>
         <location filename="../charts/statsdxccsonsatswidget.cpp" line="28"/>
         <source>Show confirmed only</source>
-        <translation type="unfinished"></translation>
+        <translation>Rādīt tikai apstiprināts</translation>
     </message>
     <message>
         <location filename="../charts/statsdxccsonsatswidget.cpp" line="30"/>
         <source>Only LEO sats</source>
         <comment>LEO means Low Earth Orbiting and it is a well known word for hams. Do not translate if not sure.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tikai LEO satelīti</translation>
     </message>
     <message>
         <location filename="../charts/statsdxccsonsatswidget.cpp" line="46"/>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Numurs</translation>
     </message>
     <message>
         <location filename="../charts/statsdxccsonsatswidget.cpp" line="83"/>
         <source>Callsign</source>
-        <translation type="unfinished"></translation>
+        <translation>Izsaukuma signāls</translation>
     </message>
     <message>
         <location filename="../charts/statsdxccsonsatswidget.cpp" line="84"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datums</translation>
     </message>
     <message>
         <location filename="../charts/statsdxccsonsatswidget.cpp" line="85"/>
         <source>Band</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapazons</translation>
     </message>
     <message>
         <location filename="../charts/statsdxccsonsatswidget.cpp" line="86"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode</translation>
     </message>
     <message>
         <location filename="../charts/statsdxccsonsatswidget.cpp" line="87"/>
         <source>DXCC</source>
-        <translation type="unfinished"></translation>
+        <translation>DXCC</translation>
     </message>
     <message>
         <location filename="../charts/statsdxccsonsatswidget.cpp" line="88"/>
         <source>Satellite</source>
-        <translation type="unfinished"></translation>
+        <translation>Satelīti</translation>
     </message>
     <message>
         <location filename="../charts/statsdxccsonsatswidget.cpp" line="89"/>
         <source>Confirmed</source>
-        <translation type="unfinished"></translation>
+        <translation>Apstiprināts</translation>
     </message>
     <message>
         <location filename="../charts/statsdxccsonsatswidget.cpp" line="118"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nē</translation>
     </message>
 </context>
 <context>
